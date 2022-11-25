@@ -1,4 +1,4 @@
-# herehack_Supply-Chain-Management_ESOCODERS
+# herehack_s7_ESOCODERS
 
 -->Problem statement (Statement-7):-
 
